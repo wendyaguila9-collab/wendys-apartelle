@@ -3,8 +3,8 @@ import './globals.css'
 import { StoreProvider } from '@/lib/store'
 
 export const metadata: Metadata = {
-  title: "Wendy's Apartelle",
-  description: "Financial tracking dashboard for Wendy's Apartelle family business",
+  title: "Wendy Business Hub",
+  description: "Financial tracking dashboard for Wendy Business Hub",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

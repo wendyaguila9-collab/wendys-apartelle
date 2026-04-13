@@ -4,7 +4,8 @@ export const BUSINESS_AREAS: BusinessArea[] = [
   { id: 'apartelle', name: 'Apartelle', color: '#DB2777', bgColor: '#FDF2F8', textColor: '#DB2777', icon: 'Building2' },
   { id: 'dress-shop', name: 'Dress Shop', color: '#EC4899', bgColor: '#FCE7F3', textColor: '#EC4899', icon: 'ShoppingBag' },
   { id: 'captain', name: 'Daddy', color: '#3B82F6', bgColor: '#EFF6FF', textColor: '#3B82F6', icon: 'Anchor' },
-  { id: 'household', name: 'Household', color: '#A78BFA', bgColor: '#F5F3FF', textColor: '#A78BFA', icon: 'Home' },
+  { id: 'household-manila', name: 'Household - Manila', color: '#A78BFA', bgColor: '#F5F3FF', textColor: '#A78BFA', icon: 'Home' },
+  { id: 'household-kalibo', name: 'Household - Kalibo', color: '#F472B6', bgColor: '#FDF2F8', textColor: '#F472B6', icon: 'Home' },
 ]
 
 export const INCOME_CATEGORIES: Category[] = [

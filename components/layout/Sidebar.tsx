@@ -57,8 +57,8 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
               <Building2 className="w-5 h-5 text-white" />
             </div>
             <div>
-              <p className="text-sm font-extrabold text-white leading-tight tracking-tight">Wendy&apos;s</p>
-              <p className="text-xs font-semibold leading-tight" style={{ color: '#5eead4' }}>Apartelle</p>
+              <p className="text-sm font-extrabold text-white leading-tight tracking-tight">Wendy</p>
+              <p className="text-xs font-semibold leading-tight" style={{ color: '#f9a8d4' }}>Business Hub</p>
             </div>
           </div>
           <button

@@ -26,7 +26,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
               style={{ background: 'linear-gradient(135deg, #F472B6, #60A5FA)' }}>
               <Building2 className="w-4 h-4 text-white" />
             </div>
-            <span className="text-sm font-bold text-white">Wendy&apos;s Apartelle</span>
+            <span className="text-sm font-bold text-white">Wendy Business Hub</span>
           </div>
           <div className="w-9" />
         </header>

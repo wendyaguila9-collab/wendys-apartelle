@@ -195,7 +195,7 @@ export default function DashboardPage() {
           </div>
           <div className="hidden md:flex items-center gap-2 px-4 py-2 rounded-2xl text-sm font-semibold shadow-sm"
             style={{ background: 'linear-gradient(135deg, #0F766E, #14B8A6)', color: 'white' }}>
-            <span>💰</span> Wendy&apos;s Apartelle
+            <span>💼</span> Wendy Business Hub
           </div>
         </div>
 
